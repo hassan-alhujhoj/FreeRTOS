@@ -1,4 +1,4 @@
-# Helicopter Project with FreeRTOS-2020
+# Helicopter Project with FreeRTOS
 
 ## Contributors
 * [Hassan Alhujhoj](https://github.com/hassan-alhujhoj)
